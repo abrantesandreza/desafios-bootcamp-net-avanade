@@ -5,9 +5,7 @@ class Program
     static void Main(string[] args)
     {
 
-    string registroEmail;
-    string registroNome;
-    string registroSenha;
+    string titulo, descricao, dataVencimento;
 
     registroEmail = Console.ReadLine();
     registroNome = Console.ReadLine();
